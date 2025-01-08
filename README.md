@@ -1,6 +1,7 @@
 # machine_learning_practice
 #DataMLProjects
 
-# 20250105 10:46 pm i tested a branch
+# WELCOME!! This is my data science machine learning projects portfolio, where you can look over my projects and see what I am up to.
 
-# 20250108 12:27 am I wrote in a welcome document and made the main code file for housingpricesml
+# Although currently, as of 1/8/2025, I don't have many projects to show, however you can see the progress I am making.
+# I will update this document when there is more significant progress!
